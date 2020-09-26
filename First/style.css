@@ -1,0 +1,108 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.header{
+    background-color: brown;
+    height: 100px;  
+}
+
+a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: larger;
+    color: bisque;
+}
+
+#h1{
+    color: white;
+    padding-top: 30px;
+    padding-left: 150px;  
+    display: inline-block;
+}
+
+.nav{
+    display: inline;
+    color: bisque;
+    padding-left: 500px;
+}
+
+#navsp{
+    margin-right: 50px;
+    
+}
+
+.hrd{
+    border: 3px solid white;
+}
+
+#sp{
+    color: beige;
+}
+
+.main{
+    background-color: bisque;
+    height: 400px;
+}
+
+.footer{
+    background-color: brown;
+    height: 100px;
+}
+
+.main2{
+    background-color: white;
+    height: 400px;
+}
+
+.footer2{
+    background-color: brown;
+    height: 80px;    
+    text-align: center;
+}
+
+#footer2p{
+    color: white;
+    padding-top: 30px;
+    font-weight: 500;
+    font-size: larger;
+}
+
+#mainhead{
+    color: brown;
+    text-align: center;
+    font-family: serif;
+    padding-top: 110px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#lorem{
+    color: brown;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#news{
+    color: white;
+    padding-top: 30px;
+    padding-left: 150px;  
+    display: inline-block;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+mail{
+    margin-left: 300px;
+}
+
+.tpart,img{
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+    color: brown;
+    padding-top: 10px;
+}
